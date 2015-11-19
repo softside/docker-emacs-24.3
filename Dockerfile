@@ -1,6 +1,6 @@
 # User Docker specific base image https://github.com/phusion/baseimage-docker
 FROM phusion/baseimage:0.9.15
-MAINTAINER Remy Honig
+MAINTAINER newlife
 
 # Correct environment variables
 ENV HOME /root
